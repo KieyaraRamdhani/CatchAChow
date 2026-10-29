@@ -1,0 +1,53 @@
+[
+  {
+    "id": "R001",
+    "name": "Rice with baked beans",
+    "ingredients": [
+      {
+        "product_id": "P002",
+        "grams_per_person": 100
+      },
+      {
+        "product_id": "P003",
+        "grams_per_person": 200
+      }
+    ],
+    "steps": [
+      "Rinse rice if desired and cook in water according to the package instructions.",
+      "Heat baked beans in a separate pot.",
+      "Serve together. Add seasoning only if already available."
+    ],
+    "note": "Illustrative meal idea; not a complete weekly nutrition plan."
+  },
+  {
+    "id": "R002",
+    "name": "Boiled potatoes",
+    "ingredients": [
+      {
+        "product_id": "P004",
+        "grams_per_person": 250
+      }
+    ],
+    "steps": [
+      "Wash and cut potatoes into even pieces.",
+      "Boil until tender and drain carefully."
+    ],
+    "note": "Illustrative side dish; add a suitable protein and vegetables when available."
+  },
+  {
+    "id": "R003",
+    "name": "Soft maize meal porridge (pap)",
+    "ingredients": [
+      {
+        "product_id": "P001",
+        "grams_per_person": 100
+      }
+    ],
+    "steps": [
+      "Bring water to a boil.",
+      "Gradually add maize meal while stirring.",
+      "Cook until the texture is suitable, following the package instructions."
+    ],
+    "note": "Illustrative staple; not nutritionally complete by itself."
+  }
+]

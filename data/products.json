@@ -1,0 +1,67 @@
+[
+  {
+    "id": "P001",
+    "name": "Iwisa No. 1 Super Maize Meal",
+    "category": "staple",
+    "package_g": 2500,
+    "price_zar": 25.49,
+    "retailer": "Checkers",
+    "price_checked": "2026-10-20",
+    "source": "https://loyaltyhub.co.za/groceries/maize-meal",
+    "price_type": "published_online_listing",
+    "verified_in_store": false,
+    "notes": "Online listing price; branch stock and in-store price not confirmed."
+  },
+  {
+    "id": "P002",
+    "name": "Golden Delight Parboiled Rice",
+    "category": "staple",
+    "package_g": 2000,
+    "price_zar": 29.99,
+    "retailer": "Checkers",
+    "price_checked": "2026-10-23",
+    "source": "https://loyaltyhub.co.za/groceries/rice",
+    "price_type": "published_online_listing",
+    "verified_in_store": false,
+    "notes": "Online listing price; branch stock and in-store price not confirmed."
+  },
+  {
+    "id": "P003",
+    "name": "Koo Baked Beans in Tomato Sauce",
+    "category": "protein",
+    "package_g": 400,
+    "price_zar": 16.95,
+    "retailer": "Makro",
+    "price_checked": "2026-10-25",
+    "source": "https://priceintel.co.za/",
+    "price_type": "published_online_listing",
+    "verified_in_store": false,
+    "notes": "Listing source does not confirm availability at a particular branch."
+  },
+  {
+    "id": "P004",
+    "name": "Potatoes",
+    "category": "vegetable",
+    "package_g": 2000,
+    "price_zar": 29.99,
+    "retailer": "Shoprite",
+    "price_checked": "2026-10-23",
+    "source": "https://loyaltyhub.co.za/groceries/potatoes",
+    "price_type": "published_online_listing",
+    "verified_in_store": false,
+    "notes": "Online listing price; package/offer may vary by location."
+  },
+  {
+    "id": "P005",
+    "name": "Onions",
+    "category": "vegetable",
+    "package_g": 1000,
+    "price_zar": 19.98,
+    "retailer": "Checkers",
+    "price_checked": "2026-10-20",
+    "source": "https://loyaltyhub.co.za/groceries/onions",
+    "price_type": "published_online_listing",
+    "verified_in_store": false,
+    "notes": "Online listing price; branch stock and in-store price not confirmed."
+  }
+]

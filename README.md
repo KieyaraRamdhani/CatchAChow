@@ -2,6 +2,9 @@
 
 CatchAChow is a yellow-and-red South African student food-budgeting and meal-planning app. This updated source adds a Supabase sign-up/login flow, email confirmation code screen, password validation, subscription-plan UI, restaurant-day budgeting, birthday/Black Friday offer watchlists, and a secure-backend pattern for Gemini food-only chat and approved retailer-feed adapters.
 
+github url:https://github.com/KieyaraRamdhani/CatchAChow
+website url: https://kieyararamdhani.github.io/CatchAChow/
+
 ## What is implemented in this source
 
 - **Sign-up fields:** name, surname, date of birth, email, phone and password.
